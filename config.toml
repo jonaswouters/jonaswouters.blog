@@ -1,0 +1,18 @@
+baseURL = "http://jonaswouters.com/"
+languageCode = "en-us"
+title = "Jonas Wouters"
+
+themesDir = "./themes"
+theme = "hugo-cactus-theme"
+
+[params]
+	name = "Jonas Wouters"
+	description = ""
+	bio = "Full-Stack Engineer"
+	enableRSS = true
+
+[social]
+    twitter  = "https://twitter.com/jonaswouters"
+    facebook = "https://facebook.com/jonaswouters.be"
+    github   = "https://github.com/jonaswouters"
+    linkedin  = "https://linkedin.com/in/jonaswouters"
